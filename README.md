@@ -1,3 +1,5 @@
+http://192.168.29.119:8502
+
 # AI Smart Resume–Job Matcher
 
 An AI-powered web application that analyzes a candidate's resume against a job description using semantic similarity, skill matching, entity matching, and personalized skill recommendations.
